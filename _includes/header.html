@@ -46,7 +46,12 @@
           {% endif %}
           
           <!-- CV link -->
-        <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">CV</a>
+            <li class="nav-item">
+            <a class="page-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">
+                CV
+             </a>
+          </li>
+        
           
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
