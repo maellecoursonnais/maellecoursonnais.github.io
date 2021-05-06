@@ -46,12 +46,14 @@
           {% endif %}
           
           <!-- CV link -->
-            <li class="nav-item">
-            <a class="nav-link" href="{{ '/assets/pdf/CV.pdf' | prepend: site.baseurl | prepend: site.url }}">
-                CV
-             </a>
-          </li>
-        
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/assets/pdf/CV.pdf' | relative_url }}">
+              blog
+              {% if page.title == "blog" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>        
           
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
