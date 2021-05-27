@@ -41,12 +41,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: maellecoursonnais
 gitlab_username: # your GitLab user name
 twitter_username: Lecoursonnais8 # your Twitter handle
 linkedin_username: mael-lecoursonnais # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-7678-7506
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
