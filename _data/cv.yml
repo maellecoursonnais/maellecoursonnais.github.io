@@ -12,86 +12,58 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: Institute for Analytical Sociology, Linköping University, Sweden
+      year: 2020-present
+      description: >
+        Title: Local spatial inequalities
+    - title: M.A. in Quantitative Sociology
+      institution: Paris-Saclay University, Paris, France
+      year: 2018-2020
+      description: >
+        Thesis title: Ethnoracial Segregation and Neighborhood Effects
+    - title: B.A. in Mathematics Applied to Social Sciences
+      institution: Paris-Diderot University, Paris, France
+      year: 2019-2020
+    - title: B.A. in Political Sociology
+      institution: Paris-Dauphine University, Paris, France
+      year: 2017-2018
 
-- title: Experience
+- title: Talks
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: INAS Annual Conference, Florence, Italy
+      institution: Near, Far, Wherever You Are? The Effect of Distance to University on Educational Aspirations
+      year: 2022
+    - title: EpiDem Network Junior Conference, Torekov
+      institution: Near, Far, Wherever You Are? The Effect of Distance to University on Educational Aspirations
+      year: 2022
+    - title: Swedish Network for Register-Based Research, online, poster session
+      institution: The Enduring Disadvantage of Residential Context
+      year: 2020
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching and supervision
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Master's Thesis Writing (TA), graduate
+      institution: IAS, Linköping University
+      year: 2022
+    - title: Digital Strategies for the Social Sciences (TA), graduate
+      institution: IAS, Linköping University
+      year: 2022
 
-- title: Honors and Awards
+- title: Workshop and schools
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: SICSS Paris 
+      institution: ENSAE, Paris, France
+      year: 2022
+      description: |
+        Theme: Computational social science, text analysis
+    - title: ECSR-CCA-NASP Spring School 2022
+      institution: Collegio Carlo Alberto, Turin, Italy
+      year: 2022
+      description: |
+        Theme: "Geography, Mobility, and Social Stratification"
+    - title: <a ref="http://swe-reg.se/sings/"> Swedish Interdisciplinary Graduate School in Register-based Research</a>
+      institution: Karolinska Institutet, Stockholm, Sweden
+      year: 2020-present
