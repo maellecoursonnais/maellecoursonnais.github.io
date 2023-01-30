@@ -14,8 +14,8 @@ profile:
     #<p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: news # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Welcome to my website! I am a PhD student at the [Institute for Analytical Sociology](https://liu.se/en/organisation/liu/iei/ias) of [Linköping University](https://liu.se/en), in Sweden. 
