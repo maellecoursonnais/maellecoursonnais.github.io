@@ -15,7 +15,7 @@
       institution: Institute for Analytical Sociology, Linköping University, Sweden
       year: 2020-present
       description: >
-        Title: Local spatial inequalities
+        Title: Essays on Spatial Contextual Effecs
     - title: M.A. in Quantitative Sociology
       institution: Paris-Saclay University, Paris, France
       year: 2018-2020
@@ -31,19 +31,38 @@
 - title: Talks
   type: time_table
   contents:
-    - title: INAS Annual Conference, Florence, Italy
-      institution: Near, Far, Wherever You Are? The Effect of Distance to University on Educational Aspirations
+    - title: 
+      description:
+        - XX ISA World Congress of Sociology, online
+        - RC28 Conference, Paris, France
+        - Population Association of America Conference, New Orleans, LA, US
+      year: 2023
+    - title: 
+      description:
+        - INAS Annual Conference, Florence, Italy
+        - EpiDem Network Junior Conference, Torekov, Sweden
+        - Swedish Network for Register-Based Research, online
       year: 2022
-    - title: EpiDem Network Junior Conference, Torekov
-      institution: Near, Far, Wherever You Are? The Effect of Distance to University on Educational Aspirations
-      year: 2022
-    - title: Swedish Network for Register-Based Research, online, poster session
-      institution: The Enduring Disadvantage of Residential Context
-      year: 2020
+
+- title: Grants
+  type: time_table
+  contents:
+    - title: Wallenbergstiftelsens fond
+      institution: 23,000SEK
+      year: 2023
 
 - title: Teaching and supervision
   type: time_table
   contents:
+    - title: Inequality and segregation (invited lecturer), graduate
+      institution: IAS, Linköping University
+      year: 2023
+    - title: SICSS-IAS (TA), graduate
+      institution: IAS, Linköping University
+      year: 2023
+    - title: Master's thesis supervision, 1 student
+      institution: IAS, Linköping University
+      year: 2023
     - title: Master's Thesis Writing (TA), graduate
       institution: IAS, Linköping University
       year: 2022
