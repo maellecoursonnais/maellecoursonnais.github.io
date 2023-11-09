@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D. in Sociology
       institution: Institute for Analytical Sociology, Linköping University, Sweden
       year: 2020-present
       description: >
@@ -33,6 +33,9 @@
   contents:
     - title: 
       description:
+        - Lundis de l'INED, INED, Paris, France
+        - <a ref="https://geographie-cites.cnrs.fr/segregation-et-espaces-dactivites-en-suede/"> Géographie-Cités </a>, Paris, France
+        - Economic Demography Seminar, INED, Paris, France 
         - AQRiE Hub, University of Edinburgh, invited talk
         - Congrès de l'Association Française de Sociologie, Lyon, France
         - XX ISA World Congress of Sociology, online
@@ -49,6 +52,9 @@
 - title: Grants
   type: time_table
   contents:
+    - title: LiU's IEI Travel Allowance
+      institution: 38,200SEK
+      year: 2023
     - title: Wallenbergstiftelsens fond
       institution: 23,000SEK
       year: 2023
@@ -56,6 +62,9 @@
 - title: Teaching and supervision
   type: time_table
   contents:
+    - title: Culture and identity (invited lecturer), graduate
+      institution: IAS, Linköping University
+      year: 2023
     - title: Inequality and segregation (invited lecturer), graduate
       institution: IAS, Linköping University
       year: 2023
@@ -87,4 +96,4 @@
         Theme: "Geography, Mobility, and Social Stratification"
     - title: <a ref="http://swe-reg.se/sings/"> Swedish Interdisciplinary Graduate School in Register-based Research</a>
       institution: Karolinska Institutet, Stockholm, Sweden
-      year: 2020-present
+      year: 2020-2024
