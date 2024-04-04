@@ -8,14 +8,31 @@
     - name: Languages
       value: French, English
 
-- title: Education
+- title: Academic positions
   type: time_table
   contents:
     - title: Ph.D. in Sociology
       institution: Institute for Analytical Sociology, Linköping University, Sweden
       year: 2020-present
       description: >
-        Title: Essays on Spatial Contextual Effecs
+        Title: Essays on Spatial Contextual Effects
+    - title: Visiting Ph.D. Student
+      institution: French Institute of Demography (INED), Paris
+      year: 2023-2024
+      description: >
+        Sponsor: Marion Leturcq
+    - title: Visiting Fellow in Sociology
+      institution: Harvard University, Cambridge
+      year: 2024
+      description: >
+        Sponsor: Xiang Zhou
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D. in Sociology
+      institution: Institute for Analytical Sociology, Linköping University, Sweden
+      year: 2020-present
     - title: M.A. in Quantitative Sociology
       institution: Paris-Saclay University, Paris, France
       year: 2018-2020
@@ -33,7 +50,13 @@
   contents:
     - title: 
       description:
-        - Lundis de l'INED, INED, Paris, France
+        - <a ref="https://www.su.se/department-of-sociology/calendar/suda-demographic-colloquium-series-1.692352"> SUDA Colloquium Series </a>, Stockholm, Sweden, invited talk
+        - Population Association of America Conference, Columbus, OH, US
+        - European Population Conference, Edinburgh, Scotland
+      year: 2024
+    - title: 
+      description:
+        - <a ref="https://www.ined.fr/fr/actualites/rencontres-scientifiques/les-lundis/l-influence-durable-du-parcours-residentiel-sur-le-niveau-d-education-vers-une-approche-longitudinale/"> Lundis de l'INED </a>, INED, Paris, France
         - <a ref="https://geographie-cites.cnrs.fr/segregation-et-espaces-dactivites-en-suede/"> Géographie-Cités </a>, Paris, France
         - Economic Demography Seminar, INED, Paris, France 
         - AQRiE Hub, University of Edinburgh, invited talk
