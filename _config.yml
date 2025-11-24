@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Maël Lecoursonnais"
 title_separator          : "-"
 name                     : &name "Maël Lecoursonnais"
@@ -25,15 +25,15 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Maël Lecoursonnais"
-  pronouns         : "he/him"  
+  pronouns         : # 
   bio              : "PhD in Analytical Sociology"
   location         : "Norrköping, Sweden"
-  employer         : "Linköping University"
+  employer         : #"Linköping University"
   uri              : # URL
   email            : "mael.lecoursonnais@liu.se" 
 
   # Academic websites
-  academia         : "https://liu.se/en/employee/maele63"
+  academia         : #"https://liu.se/en/employee/maele63"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=ObEdBwEAAAAJ"
   inspire-hep      : # URL
