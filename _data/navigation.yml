@@ -9,10 +9,10 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: publications/
 
   - title: "Working papers"
-    url: /working-papers/
+    url: wps/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -26,8 +26,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: cv/
     
   # - title: "CV"
   #   url: /cv-json/

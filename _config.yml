@@ -23,7 +23,7 @@ repository               : "maellecoursonnais/maellecoursonnais.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Maël Lecoursonnais"
   pronouns         : "he/him"  
   bio              : "PhD in Analytical Sociology"
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=ObEdBwEAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-7678-7506"
+  orcid            : #"https://orcid.org/0000-0001-7678-7506"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -48,9 +48,9 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "maellecoursonnais"
+  github           : #"maellecoursonnais"
   kaggle           : # Username  
-  stackoverflow    : "13460602/maël"  
+  stackoverflow    : #"13460602/maël"  
 
   # Social media
   artstation       : # Username
