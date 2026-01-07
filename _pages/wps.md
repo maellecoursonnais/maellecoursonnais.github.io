@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Works in Progress"
-permalink: /wps/
+title: "Work in progress"
+permalink: /wip/
 author_profile: true
 ---
 
